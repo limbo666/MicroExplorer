@@ -1,15 +1,13 @@
 # MicroExplorer
 
 
-<img width="991" height="696" alt="image" src="https://github.com/user-attachments/assets/741cb415-593d-4a27-9192-e752d0cc7c3f" />
-
 
 
 **MicroExplorer** is a robust, all-in-one development environment (IDE) for IoT developers working with **MicroPython**.
 
 Built in VB.NET, it replaces the need for complex command-line tools (like `ampy` or `rshell`) by providing a modern, asynchronous graphical interface. Manage files, execute scripts, monitor REPL output, and flash firmware to ESP32 and ESP8266 devices—all from a single, seamless dashboard.
 
-_(Add a screenshot of your main form here)_
+<img width="991" height="696" alt="image" src="https://github.com/user-attachments/assets/741cb415-593d-4a27-9192-e752d0cc7c3f" />
 
 ----------
 
