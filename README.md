@@ -9,16 +9,18 @@ MicroExplorer is a robust, all-in-one toolbox for IoT developers working with Mi
 
 Key Features:
 
-Smart File Manager: Dual-pane interface (Local vs. Device), multi-selection support, and visual file type styling.
+**File Manager:** Dual-pane interface (Local vs. Device), multi-selection support, and visual file type styling.
 
-Asynchronous Core: specific file operations (Upload, Download, Delete) run on background threads, ensuring the UI never freezes during large transfers.
+**Asynchronous Core:** specific file operations (Upload, Download, Delete) run on background threads, ensuring the UI never freezes during large transfers.
 
-Communication Terminal: A rich, color-coded REPL terminal that separates system messages, sent commands, and received data.
+**Communication Terminal:** A rich, color-coded REPL terminal that separates system messages, sent commands, and received data.
 
-Command Center: A snap-to-window utility for storing and firing frequently used Python snippets (saved via JSON).
+**Command Center:** A snap-to-window utility for storing and firing frequently used Python snippets (saved via JSON).
 
-Integrated Flasher: Built-in GUI wrapper for esptool.exe to auto-detect chip types (ESP32, C3, S3) and flash firmware without leaving the app.
+**Integrated Flasher:** Built-in GUI wrapper for esptool.exe to auto-detect chip types (ESP32, C3, S3) and flash firmware without leaving the app.
 
-Quick System Tools: One-click access to device stats (Disk Usage, RAM availability, Wi-Fi Status, Time Sync).
+**Quick System Tools:** One-click access to device stats (Disk Usage, RAM availability, Wi-Fi Status, Time Sync).
 
-Quick Viewer: Instant code inspection for remote files without needing to download them first.
+**Quick Viewer:** Instant code inspection for remote files without needing to download them first.
+
+**Notepad++ Integration:** supports command to upload code using `Run` commnds from Notepad++.
