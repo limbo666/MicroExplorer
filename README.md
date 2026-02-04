@@ -206,7 +206,6 @@ _Note: If MicroExplorer is not running, these commands will launch it and attemp
     
     -   This software bundles and interacts with **[esptool](https://www.google.com/search?q=https://github.com/espressif/esptool)** (GPLv2) by Espressif Systems for firmware operations.
         
-    -   Icons provided by [FatCow / FamFamFam / etc - insert your source if known].
         
 
 See the `LICENSE` file for full legal details.
